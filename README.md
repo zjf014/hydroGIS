@@ -14,17 +14,17 @@ GIS工具类型繁多，有成套的GIS软件（ArcGIS, QGIS），遥感软件�
 - [其它](#其它)
 
 ## 桌面端软件
-- [ArcGIS Desktop](https://www.esri.com/zh-cn/arcgis/products/arcgis-desktop/overview) -> [ArcGIS](./ArcGIS/readme.md)：GIS软件的行业标杆，包括一系列软件，如ArcMap、ArcCatalog、ArcGlobe等，功能强大，有专门针对水文的工具。正版很贵，破解版也很流行。新一代桌面版为[ArcGIS Pro](https://www.esri.com/zh-cn/arcgis/products/arcgis-pro/overview)，加入了一些机器学习、云计算的东西。还有国产化版本[GeoScene](https://www.geoscene.cn/)。
-- [QGIS](https://www.qgis.org/en/site/) -> [QGIS](./QGIS/readme.md)：基本可以认为是免费版的ArcGIS，因为是开源的，所以不会像商业软件那样做的非常详尽，但是应对水文专业GIS应用还是足够的。
+- [ArcGIS Desktop](https://www.esri.com/zh-cn/arcgis/products/arcgis-desktop/overview) -> [ArcGIS](./ArcGIS/)：GIS软件的行业标杆，包括一系列软件，如ArcMap、ArcCatalog、ArcGlobe等，功能强大，有专门针对水文的工具。正版很贵，破解版也很流行。新一代桌面版为[ArcGIS Pro](https://www.esri.com/zh-cn/arcgis/products/arcgis-pro/overview)，加入了一些机器学习、云计算的东西。还有国产化版本[GeoScene](https://www.geoscene.cn/)。
+- [QGIS](https://www.qgis.org/en/site/) -> [QGIS](./QGIS/)：基本可以认为是免费版的ArcGIS，因为是开源的，所以不会像商业软件那样做的非常详尽，但是应对水文专业GIS应用还是足够的。
 - [SuperMap iDesktop](http://support.supermap.com.cn/product/iDesktop.aspx)：国产超图软件，可以看作是ArcGIS的国产版本，功能也很强大。
 
 ## 云计算平台
-- [Google Earth Engine](https://developers.google.cn/earth-engine/) -> [GEE](./GEE/readme.md)：基于Google平台提供的一站式地理空间处理工具，数据丰富，功能强大，同时需要科学上网。
+- [Google Earth Engine](https://developers.google.cn/earth-engine/) -> [GEE](./GEE/)：基于Google平台提供的一站式地理空间处理工具，数据丰富，功能强大，同时需要科学上网。
 - [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)：微软推出的GEE竞品，处于内测阶段。
 - [AI Earth地球科学云平台](https://engine-aiearth.aliyun.com/)：国产GEE，刚上线不久。
 
 ## PYTHON库
-- AutoGIS -> [AutoGIS](./AutoGIS/readme.md)：主要参考[Automating GIS-processes](https://github.com/Automating-GIS-processes/site)，了解Python GIS 常用的开源库，并给一些实例，方便简单的GIS计算
+- AutoGIS -> [AutoGIS](./AutoGIS/)：主要参考[Automating GIS-processes](https://github.com/Automating-GIS-processes/site)，了解Python GIS 常用的开源库，并给一些实例，方便简单的GIS计算
     - [GDAL/OGR](https://gdal.org/index.html)：处理栅格、矢量数据的基础库。
     - [Shapely](https://github.com/shapely/shapely)：处理空间分析的基础库。
     - [Proj](https://proj.org/index.html)：处理地理投影的基础库。
