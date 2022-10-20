@@ -49,7 +49,7 @@ GIS工具类型繁多，有成套的GIS软件（ArcGIS, QGIS），遥感软件�
 
 ## GIS数据
 - 数据目录
-    - 地形：如[DEM](https://github.com/DahnJ/Awesome-DEM)（[SRTM]https://www.earthdata.nasa.gov/sensors/srtm)、[ASTER](https://lpdaac.usgs.gov/products/astgtmv003/)、[ALOS](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm)等），水文相关的[流向](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/)等数据。
+    - 地形：如[DEM](https://github.com/DahnJ/Awesome-DEM)，包括[SRTM](https://www.earthdata.nasa.gov/sensors/srtm)、[ASTER](https://lpdaac.usgs.gov/products/astgtmv003/)、[ALOS](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm)等；水文相关的[流向](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/)等数据。
     - 遥感影像：如[Landsat](https://www.usgs.gov/landsat-missions)、[MODIS](https://modis.gsfc.nasa.gov/)、[Sentinel](https://sentinel.esa.int/web/sentinel/missions/)等。
     - 土地利用：如[ESA Land Cover](http://maps.elie.ucl.ac.be/CCI/viewer/)、[GlobeLand30](http://globeland30.org/)、[Global land cover](http://data.ess.tsinghua.edu.cn/)、[OSM Land Use](https://osmlanduse.org/)、[中国30米年度土地覆盖及其变化](https://zenodo.org/record/5816591#.Y1DaIvxBxPY)等。
     - 气候气象：如[ECMWF Reanalysis v5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5)、[Global Forecast System](https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast)、[Global Precipitation Measurement](https://gpm.nasa.gov/)等。
